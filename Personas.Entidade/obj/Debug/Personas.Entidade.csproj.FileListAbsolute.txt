@@ -1,0 +1,10 @@
+C:\Projeto\Personas\Servico\src\Personas\Personas.Entidade\bin\Debug\Personas.Entidade.dll
+C:\Projeto\Personas\Servico\src\Personas\Personas.Entidade\bin\Debug\Personas.Entidade.pdb
+C:\Projeto\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.csprojResolveAssemblyReference.cache
+C:\Projeto\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.dll
+C:\Projeto\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.pdb
+C:\projetos\personastech.visualstudio\Personas\Servico\src\Personas\Personas.Entidade\bin\Debug\Personas.Entidade.dll
+C:\projetos\personastech.visualstudio\Personas\Servico\src\Personas\Personas.Entidade\bin\Debug\Personas.Entidade.pdb
+C:\projetos\personastech.visualstudio\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.csprojResolveAssemblyReference.cache
+C:\projetos\personastech.visualstudio\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.dll
+C:\projetos\personastech.visualstudio\Personas\Servico\src\Personas\Personas.Entidade\obj\Debug\Personas.Entidade.pdb
